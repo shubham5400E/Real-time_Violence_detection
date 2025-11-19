@@ -168,14 +168,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 💖 **Support**
-If you liked this project or found it helpful, please ⭐ **star the repository**.  
-For any questions or collaboration, contact me at:  
-📧 **Email:** [yuvrajsc42@gmail.com](mailto:yuvrajsc42@gmail.com)  
-💬 **LinkedIn:** [linkedin.com/in/yuvraj-chaudhari](https://linkedin.com/in/yuvraj-chaudhari)  
-
----
-
 ## ⚠ **Disclaimer**
 - This project is for educational and personal use only.  
 - Do not use this system for illegal surveillance or unauthorized activities.  
